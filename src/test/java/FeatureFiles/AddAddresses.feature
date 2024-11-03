@@ -10,6 +10,7 @@ Feature: Add Addresses Functionality
 
   Scenario Outline: Add new Addresses
 
+
     And User click on DialogButton
       |AddNewAddressButton  |
 
